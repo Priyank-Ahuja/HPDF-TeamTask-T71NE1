@@ -25,9 +25,9 @@ To see the app in action you can follow the instructions below:
 * In your terminal input the following commands to clone the repo ans start the dev-server
 
 ```sh
-$ git clone https://github.com/Priyank-Ahuja/Uber-Frontend-ReactJS-
+$ git clone https://github.com/Priyank-Ahuja/HPDF-TeamTask-T71NE1
 
-$ cd Uber-Frontend-ReactJS-
+$ cd UberClone-Frontend(ReactJS)
 
 # install dependencies
 $ npm install
